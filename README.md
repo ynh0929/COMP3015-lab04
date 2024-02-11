@@ -15,3 +15,8 @@ php -S localhost:7777 -t src/Views
 ```
 
 Alternatively, you can run it using Apache or Nginx.
+
+### Dropping the database
+```
+drop database posts_we_app;
+```
